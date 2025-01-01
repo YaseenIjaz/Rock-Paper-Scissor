@@ -1,0 +1,34 @@
+#symbols button {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 10px 100px;
+    border: 5px solid orange;
+    background-color: black;
+
+}
+
+img{
+    width: 100px;
+}
+
+span {
+    font-size: 45px;
+}
+
+p {
+    font-size: 25px;
+}
+
+#reset{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    
+}
+
+#confirmTxt{
+    font-size: 25px;
+    margin-right:20px ;
+}
