@@ -42,4 +42,8 @@ p {
     img {
         width: 70px;
     }
+
+    body{
+        margin-bottom : 100px;
+    }
 }
